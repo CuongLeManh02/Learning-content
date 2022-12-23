@@ -1,0 +1,26 @@
+0 A
+1 B
+2 C
+3 D
+4 E
+5 F
+6 G
+7 H
+8 Hello
+9 I
+10 K
+11 L
+12 Live Long
+13 M
+14 N
+15 O
+16 P
+17 R
+18 S
+19 T
+20 Tim
+21 U
+22 V
+23 W
+24 X
+25 Y
